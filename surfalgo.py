@@ -1,8 +1,6 @@
 """
-surfalgo - online scheduling algorithm for competitive surf heats.
-
+My surfalgo is an online scheduling algorithm for competitive surf heats.
 Import this module and call the functions, or run main.py for the full pipeline.
-No external dependencies (standard library only).
 """
 
 import heapq

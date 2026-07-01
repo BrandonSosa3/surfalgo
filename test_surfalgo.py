@@ -1,8 +1,5 @@
 """
-Test suite for surfalgo.
-
-Run:  python -m pytest test_surfalgo.py -v
- or:  python test_surfalgo.py
+Test for surfalgo.
 """
 
 from surfalgo import (

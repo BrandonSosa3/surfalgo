@@ -34,8 +34,7 @@ make test
 ```
 
 This runs the automated suite in test_surfalgo.py 12 tests covering the
-decision rules, scoring, interference, priority rotation, calibration, and
-multi-surfer heats. It uses pytest if available otherwise a built in runner.
+decision rules, scoring, interference, priority rotation, and calibration. It uses pytest if available otherwise a built in runner.
 You can also run it directly:
 
 ```bash

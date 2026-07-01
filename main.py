@@ -2,8 +2,6 @@
 Entry point for surfalgo. Runs the test suite, tunes the urgency parameters,
 estimates a worst-case lower bound, stress-tests 3 and 4 surfer heats, and
 runs the full 10,000 heat simulation.
-
-Usage:  python main.py
 """
 
 import time
